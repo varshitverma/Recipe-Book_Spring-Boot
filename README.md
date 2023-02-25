@@ -4,8 +4,8 @@ Initially, it contains data of 5 recipes.
 
 ### NOTE
 ```
-The crud operations done won't persist after server restart||stopping. Since it's not connected to a Database. 
-    Basic data is available in (/src/main/java/com/example/recipe/RecipeService.java) file.
+The crud operations done won't persist after server restart||stopping server. Since it's not connected 
+to a Database. Basic data is available in (/src/main/java/com/example/recipe/RecipeService.java) file.
 ```
 
 ### Instructions
