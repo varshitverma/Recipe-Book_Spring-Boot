@@ -4,7 +4,7 @@ The `RecipeService` class has a variable named `recipeBook`, which is a HashMap 
 ### NOTE
 ```
 The crud operations done won't persist after reload. Since it's not connected to a Database. 
-    Basic data is available in (/src/main/java/com/example/song/SongService.java) file.
+    Basic data is available in (/src/main/java/com/example/recipe/RecipeService.java) file.
 ```
 
 ### Instructions
@@ -169,4 +169,16 @@ Updates the details of a recipe in the recipeBook based on the recipe ID. If the
 Deletes a recipe from the recipeBook  based on the recipe ID. If the given recipe ID is not found in the `recipeBook`, raise `ResponseStatusException` with `HttpStatus.NOT_FOUND`.
 
 
-**Do not modify the code in `RecipeApplication.java`**
+**Do not modify the code in `RecipeApplication.java`**  
+
+
+<br></br>
+### After project setting up IDE
+```
+> After: | mvn spring-boot:run | in Terminal.
+> Go to the Postman website. 
+> Check for the import option and import the (Recipe Book SpringBoot CRUD.postman_collection.json) file
+    to list all the HTTP methods templates to do crud operations; (Update/Provide own the api link).
+> For POST/PUT Operations in POSTMAN check for (body > raw > json).
+```
+<a href="https://www.postman.com/"> POSTMAN </a>
