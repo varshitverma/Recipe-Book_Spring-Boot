@@ -1,5 +1,6 @@
 Given four files `RecipeController.java`, `RecipeRepository.java`, `RecipeService.java` and  `Recipe.java`.
-The `RecipeService` class has a variable named `recipeBook`, which is a HashMap that holds `Integer`s as keys and `Recipe` objects as values. Initially, it contains data of 5 recipes.
+The `RecipeService` class has a variable named `recipeBook`, which is a HashMap that holds `Integer`s as keys and `Recipe` objects as values. 
+Initially, it contains data of 5 recipes.
 
 ### NOTE
 ```
