@@ -3,7 +3,7 @@ The `RecipeService` class has a variable named `recipeBook`, which is a HashMap 
 
 ### NOTE
 ```
-The crud operations done won't persist after reload. Since it's not connected to a Database. 
+The crud operations done won't persist after server restart||stopping. Since it's not connected to a Database. 
     Basic data is available in (/src/main/java/com/example/recipe/RecipeService.java) file.
 ```
 
