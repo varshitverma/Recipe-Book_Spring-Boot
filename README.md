@@ -174,7 +174,7 @@ Deletes a recipe from the recipeBook  based on the recipe ID. If the given recip
 
 
 <br></br>
-### After project setting up IDE
+### After setting up project in IDE
 ```
 > After: | mvn spring-boot:run | in Terminal.
 > Go to the Postman website. 
