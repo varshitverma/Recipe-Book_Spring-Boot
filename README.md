@@ -4,7 +4,7 @@ Initially, it contains data of 5 recipes.
 
 ### NOTE
 ```
-The crud operations done won't persist after server restart||stopping server. Since it's not connected 
+The crud operations done won't persist after server restart || stopping server. Since it's not connected 
 to a Database. Basic data is available in (/src/main/java/com/example/recipe/RecipeService.java) file.
 ```
 
@@ -171,7 +171,6 @@ Deletes a recipe from the recipeBook  based on the recipe ID. If the given recip
 
 
 **Do not modify the code in `RecipeApplication.java`**  
-
 <br></br>
 ### After setting up project in IDE
 ```
