@@ -172,14 +172,11 @@ Deletes a recipe from the recipeBook  based on the recipe ID. If the given recip
 
 **Do not modify the code in `RecipeApplication.java`**  
 
-
 <br></br>
 ### After setting up project in IDE
 ```
-> After: | mvn spring-boot:run | in Terminal.
-> Go to the Postman website. 
-> Check for the import option and import the (Recipe Book SpringBoot CRUD.postman_collection.json) file
-    to list all the HTTP methods templates to do crud operations; (Update/Provide own the api link).
+> After: | mvn spring-boot:run | in Terminal to start poject.
+> Go to the Postman website for CRUD Operations & (Provide the api link). 
 > For POST/PUT Operations in POSTMAN check for (body > raw > json).
 ```
-<a href="https://www.postman.com/"> POSTMAN </a>
+> <a href="https://www.postman.com/"> POSTMAN </a>
